@@ -210,3 +210,44 @@ en M1/M2. Les contrats Bac+3 de 3 ans deviennent plus rares. Le coût de l'écol
 - Les fiches France Travail (`/offres/recherche/detail/<n°>`) restent longtemps en cache.
 - **Wayback Machine** (`web.archive.org`) sur les pages carrière (« alternance ») des grands groupes.
 - LinkedIn garde les offres closes visibles avec la mention « N'accepte plus de candidatures ».
+
+---
+
+## 6. Écoles à viser à Paris (entrée en M1 / Bac+4, rentrée 2027, en alternance)
+
+> Les informations viennent de fiches de formation et d'agrégateurs (Diplomeo, Onisep). **Les rythmes, frais et conditions sont à
+> revérifier pour 2027.**
+
+### Comment choisir
+
+| Critère | Pourquoi c'est important en 2027 |
+|---|---|
+| **Type de diplôme** | Master universitaire ou diplôme d'ingénieur CTI > titre RNCP niveau 7 (« Mastère ») pour la reconnaissance. Les grands groupes acceptent les trois |
+| **Coût pour l'employeur** | Depuis juillet 2025, l'employeur paie 750 €, plus la différence si l'école coûte plus que le NPEC (le montant pris en charge par l'OPCO). Une école peu chère est donc plus facile à faire accepter |
+| **Rythme** | Les longues périodes en entreprise (3 sem / 1 sem, ou 4 jours / 1 jour) sont mieux acceptées sur les postes d'exploitation cloud que le 2,5 j / 2,5 j |
+| **Aide pour trouver une entreprise** | Sans contrat signé, pas d'accès aux cours dans beaucoup d'écoles. Il faut demander le taux de placement et la liste des entreprises partenaires |
+
+### Sélection
+
+| Priorité | École / formation | Type | Lieu | Rythme | Points forts | Source |
+|---|---|---|---|---|---|---|
+| 1 | **Sorbonne Université – Master Informatique, parcours RES (Internet, Cybersécurité, Cloud et Automatisation)**, filière apprentissage dès le M1 | Master public (Mon Master) | Paris 5e (Jussieu) | apprentissage (CFA ESIEE-IT / INSTA) | Marque forte, presque gratuit, virtualisation et cloud au programme. Exige une licence informatique | [Sorbonne – parcours RES](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-res) · [RES-ALT-SEC](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-res-alt-sec) |
+| 2 | **EFREI – Mastère Cybersécurité, Réseaux & Cloud** | RNCP 7 | Villejuif (94) | 1 sem école / 2 sem entreprise | École connue des grands groupes, CFA numiA | [Diplomeo](https://diplomeo.com/diplomes/123741) |
+| 3 | **ESIEA – Mastère Architecte Cloud, DevSecOps & Cybersécurité** | RNCP 7 | Ivry-sur-Seine (94) | 4 jours entreprise / 1 jour école, plus 6 semaines par an à l'école | Entrée directe en Bac+4 avec un Bac+3 informatique. Cloud + DevSecOps, la tendance 2026 | [CIDJ](https://www.cidj.com/s-orienter/offres-formation/mastere-architecte-cloud-devsecops-cybersecurite-ivry-sur-seine) |
+| 4 | **ESIEE-IT – cycle ingénieur en apprentissage** (concours GalaxYSup, entrée possible en 2e année) | Diplôme d'ingénieur CTI | Paris 15e / Cergy | apprentissage | Titre d'ingénieur. Vérifier que l'entrée en 2e année est possible avec ton Bac+3 | [Onisep / L'Étudiant](https://www.letudiant.fr/fiches/etudes/fiche/in-tech-info-ivry.html) |
+| 5 | **PMN – Mastère Expert Systèmes Cloud** | RNCP 7 | La Défense | alternance | Le plus « cloud pur » : Azure, AWS, GCP, Kubernetes, plus une certification cloud officielle | [Diplomeo M1](https://diplomeo.com/diplomes/122304) |
+| 5 | **ESGI – Mastère Systèmes, Réseaux et Cloud Computing** | RNCP 7 | Paris 12e | 1 sem / 3 sem | Cloud, SDN, haute disponibilité, AWS | [Diplomeo](https://diplomeo.com/diplomes/111596) |
+| Option publique | **Cnam – Master Réseaux, Objets connectés et Cybersécurité** (MR11606C) | Master public | Paris 3e | alternance | Cloud computing, réseaux logiciels. Entrée à Bac+3/4 | [Cnam](https://master-alt.roc.cnam.fr/wp-content/uploads/2025/06/MR11606C-1.pdf) |
+| Option publique | **Paris-Saclay – M1 Réseaux et Télécoms, voie apprentissage** | Master public | Orsay (91) | 2,5 j / 2,5 j | Réseaux solides, moins de cloud | [Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m1-reseaux-et-telecoms-voie) |
+| Si plutôt SI / data | **MIAGE en apprentissage** (Nanterre, Dauphine, Évry) | Master public | IDF | 3 sem / 3 sem (Nanterre) | Systèmes d'information, peu d'infra cloud | [Nanterre](https://formations.parisnanterre.fr/plugins/odf-web/odf/_content/subprogram-miage-methodes-informatiques-appliquees-a-la-gestion-des-entreprises/Syst%C3%A8mes%20d'Information%20fiables%20et%20intelligence%20des%20donn%C3%A9es%20Classique.pdf) |
+
+Autres écoles privées vues avec un mastère cloud en alternance : Guardia (cyber + cloud, partenaire de Capgemini), Ynov Paris Ouest
+(Expert Cloud, Sécurité & Infrastructure), ESSIN (Cloud FinOps, DevOps/MLOps), Sup de Vinci (DevOps, Infrastructures & Cloud),
+H3 Hitema, Ingetis, LiveCampus (à distance).
+
+### Calendrier conseillé
+
+- **De novembre 2026 à janvier 2027** : candidater dans 2 ou 3 écoles privées (admissions au fil de l'eau). Plus tu es admis tôt, plus tôt l'école te met en relation avec des entreprises.
+- **Mi-février à mi-mars 2027** : candidater aux masters publics sur **Mon Master**. En 2026, la phase de candidature allait du 17 février au 16 mars, et les réponses pour l'alternance arrivaient dès le 30 avril. Le calendrier 2027 n'est pas encore publié.
+  ([Ministère – calendrier Mon Master 2026-2027](https://www.enseignementsup-recherche.gouv.fr/fr/mon-master-le-calendrier-de-la-procedure-pour-l-annee-universitaire-2026-2027-100230))
+- **Questions à poser à chaque école** : taux de placement en alternance, entreprises partenaires (AXA, Thales, BNP… ?), coût restant à la charge de l'employeur, date limite pour signer un contrat, et ce qui se passe si tu ne trouves pas d'entreprise.
