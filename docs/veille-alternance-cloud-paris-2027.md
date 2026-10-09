@@ -251,3 +251,24 @@ H3 Hitema, Ingetis, LiveCampus (à distance).
 - **Mi-février à mi-mars 2027** : candidater aux masters publics sur **Mon Master**. En 2026, la phase de candidature allait du 17 février au 16 mars, et les réponses pour l'alternance arrivaient dès le 30 avril. Le calendrier 2027 n'est pas encore publié.
   ([Ministère – calendrier Mon Master 2026-2027](https://www.enseignementsup-recherche.gouv.fr/fr/mon-master-le-calendrier-de-la-procedure-pour-l-annee-universitaire-2026-2027-100230))
 - **Questions à poser à chaque école** : taux de placement en alternance, entreprises partenaires (AXA, Thales, BNP… ?), coût restant à la charge de l'employeur, date limite pour signer un contrat, et ce qui se passe si tu ne trouves pas d'entreprise.
+
+### Mise à jour : priorité au rythme et à la présence sur place
+
+Critères retenus : **au moins 3 semaines en entreprise pour 1 semaine à l'école** (la loi impose au minimum 25 % du temps en formation,
+donc 3 sem / 1 sem est le maximum d'entreprise possible), **cours sur place**, et **contenu cloud pur**.
+EFREI (2 sem / 2 sem d'après les retours) et ESIEA (cours entièrement à distance) passent donc en solutions de secours.
+
+| Rang | Formation | Rythme | Remarques | Source |
+|---|---|---|---|---|
+| 1 | **Epitech – Master of Science Cloud** (Paris / Kremlin-Bicêtre) | ≈ 2 sem école / 4 à 6 sem entreprise | Titre RNCP 7 « Architecte de systèmes d'information », 2 ans, entrée à Bac+3/4, rentrées en automne et en février. Débouchés : architecte cloud, ingénieur DevOps, ingénieur infra cloud. Pédagogie par projets. **À vérifier** : la fiche officielle contient encore des « À REMPLIR », la liste des technologies n'est pas confirmée, et une autre page parle d'1 jour par semaine | [Fiche MSc Cloud](https://www.epitech.eu/wp-content/uploads/Fiche-MSc_Cloud.pdf) · [Page MSc Cloud](https://www.epitech.eu/formation-alternance/master-of-science-cloud/) |
+| 2 | **ESGI – Mastère Systèmes, Réseaux et Cloud Computing** (Paris 12e) | 1 sem / 3 sem | Sur place, cloud et réseau, AWS | [Diplomeo](https://diplomeo.com/diplomes/111596) |
+| 3 | **ESSIN – Mastère Expert Systèmes Cloud FinOps** (Paris 9e) | 1 sem / 3 sem | Niche FinOps, certifications Azure et AWS incluses. Format « hybride », donc une partie à distance | [L'Express Éducation](https://lexpress-education.com/ecole/essin/programme/mastere-expert-systemes-cloud-finops/) |
+| 4 | **PMN – Mastère Expert Systèmes Cloud** (La Défense) | à vérifier | Azure, AWS, GCP, Kubernetes, plus une certification | [Diplomeo](https://diplomeo.com/diplomes/122304) |
+| Public | **Sorbonne Université – parcours RES (apprentissage)** | à vérifier | Si tu as une licence informatique | [Sorbonne](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-res) |
+
+Écartés à cause du rythme ou du niveau d'entrée : **ESILV**, majeure Cloud Computing & Cybersécurité (3 sem école / 2 sem entreprise, cycle ingénieur)
+([ESILV](https://www.esilv.fr/formations/cycle-ingenieur/majeures/cybersecurite-cloud-computing/)), et **EPITA**, majeure « Infrastructure, cloud et opérations »
+(cycle ingénieur, entrée en Bac+4 peu probable) ([EPITA](https://www.epita.fr/diplome-ingenieur/cycle-ingenieur/les-majeures/)).
+
+**Le meilleur test pour comparer les écoles** : sur LinkedIn, cherche « alternant cloud » ou « alternant DevOps » chez AXA, Thales, VINCI, BNP ou Société Générale,
+et note **de quelles écoles viennent leurs alternants actuels**. C'est la preuve la plus concrète de ce que ces entreprises acceptent.
