@@ -74,3 +74,28 @@ Objectif : savoir si l'Epitech MSc Cloud reste en tier **S**. Profil visé : M1 
 - **Reste en tier S** si : RNCP clair et actif, au moins 75 % du temps en entreprise avec cours sur place, programme cloud écrit (Azure / Terraform),
   noms de grands groupes, rentrée de février comme plan B, reste à charge employeur faible ou nul.
 - **Descend en tier B** si **2 signaux d'alerte ou plus** 🚩.
+
+---
+
+## Admission au MSc : ce qui t'attend
+
+D'après le site officiel et la FAQ du MSc « Architecte de systèmes d'information » (le titre du MSc Cloud) :
+
+- **Conditions** : un Bac+3, soit 180 crédits ECTS, donne accès directement à la 1re année du MSc.
+- **Étude du dossier** : de 48 heures à 2 semaines.
+- **Test technique sur CoderPad** (un éditeur de code en ligne) : logique algorithmique, capacité à coder, capacité à concevoir une solution.
+- **Entretien individuel avec un membre du jury** : motivation, cohérence du projet professionnel, capacité à suivre un parcours d'expertise.
+- **Résultats** : environ 48 heures après l'entretien.
+- **Selon le campus**, il peut y avoir en plus un test d'anglais (~25 min) ou un test de logique.
+
+Sources : [Admission MSc Epitech](https://www.epitech.eu/admission-master-of-science-ecole-informatique/), [FAQ MSc Architecte de SI](https://www.epitech.eu/formation-alternance/faq-architecte-systemes-information/)
+
+**Questions à poser aux portes ouvertes** :
+- [ ] Quelles sont les épreuves exactes pour le MSc Cloud à Paris ? Y a-t-il un test d'anglais ou de logique en plus ?
+- [ ] Le test technique se passe-t-il dans le langage de mon choix (Python ?), combien de temps dure-t-il, et quel niveau est attendu ?
+- [ ] Quand faut-il candidater pour la rentrée de septembre 2027 pour avoir le temps de chercher une entreprise ?
+
+**Préparation** :
+- **Test technique** : 20 à 30 exercices faciles à moyens en Python (chaînes de caractères, listes, dictionnaires, tris, boucles), sur LeetCode niveau Easy ou Codewars niveau 7-6 kyu. **Entraîne-toi à expliquer à voix haute** ce que tu fais : sur CoderPad, la façon de raisonner compte autant que la solution.
+- **Entretien** : un projet professionnel clair (« alternance cloud Azure dans un grand groupe »), l'AZ-104 (passée ou planifiée), **montrer ce dépôt GitHub** et savoir expliquer un lab Terraform de bout en bout, puis expliquer pourquoi Epitech (le rythme, l'apprentissage par projets, ton autonomie).
+- **Anglais** : relire du vocabulaire technique (la documentation Azure en anglais suffit comme entraînement).
