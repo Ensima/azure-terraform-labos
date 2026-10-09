@@ -286,3 +286,22 @@ et note **de quelles écoles viennent leurs alternants actuels**. C'est la preuv
 
 **Verdict** : un bon choix **pour le rythme et pour décrocher une alternance**, à condition de compenser toi-même le contenu (certifications AZ-104, AZ-305
 et Terraform, plus tes labs). Pour la valeur du diplôme et le coût, un master public ou l'ESGI peuvent être meilleurs.
+
+### Tier list des écoles (M1 en alternance, rentrée 2027, profil cloud Azure)
+
+Critères, du plus important au moins important : **rythme** (temps passé en entreprise), **cours sur place**, **contenu cloud**,
+**reconnaissance du diplôme**, **coût pour l'employeur**.
+
+| Tier | École / formation | Pourquoi |
+|---|---|---|
+| **S** *(si les vérifications passent)* | Epitech – MSc Cloud | Meilleur rythme (≈ 2 sem / 4 à 6 sem), rentrée de février en filet de sécurité. Contenu et coût à confirmer |
+| **A** | ESGI – Mastère Systèmes, Réseaux et Cloud Computing | 1 sem / 3 sem, sur place, cloud et réseau |
+| **A** *(S si licence informatique)* | Sorbonne Université – parcours RES (apprentissage) | Diplôme national fort, presque gratuit pour l'employeur. Rythme à vérifier |
+| **B** | PMN – Mastère Expert Systèmes Cloud | Cloud pur (Azure, AWS, GCP, Kubernetes) plus une certification. Rythme inconnu, école peu connue |
+| **B** | ESSIN – Mastère Expert Systèmes Cloud FinOps | 1 sem / 3 sem, mais une partie à distance et une spécialité de niche |
+| **B** | Cnam – Master Réseaux, Objets connectés et Cybersécurité | Diplôme public, cloud au programme. Rythme à vérifier |
+| **C** | EFREI – Mastère Cybersécurité, Réseaux & Cloud | Bonne marque, mais 2 sem / 2 sem |
+| **C** | ESIEA – Mastère Architecte Cloud, DevSecOps & Cybersécurité | Rythme 4 jours / 1 jour, mais cours entièrement à distance |
+| **C** | Guardia, Ynov Paris Ouest | Guardia est surtout orientée cyber, Ynov a un rythme flou et coûte 8 750 € |
+| **D** | Paris-Saclay (M1 Réseaux et Télécoms), MIAGE | 2,5 j / 2,5 j ou spécialité SI / data, peu de cloud |
+| **Écartées** | ESILV (3 sem école / 2 sem entreprise), EPITA (cycle ingénieur, entrée en Bac+4 peu probable) | Rythme ou niveau d'entrée incompatibles |
