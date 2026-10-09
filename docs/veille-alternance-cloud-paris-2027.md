@@ -272,3 +272,17 @@ EFREI (2 sem / 2 sem d'après les retours) et ESIEA (cours entièrement à dista
 
 **Le meilleur test pour comparer les écoles** : sur LinkedIn, cherche « alternant cloud » ou « alternant DevOps » chez AXA, Thales, VINCI, BNP ou Société Générale,
 et note **de quelles écoles viennent leurs alternants actuels**. C'est la preuve la plus concrète de ce que ces entreprises acceptent.
+
+### Zoom : ce que vaut l'Epitech MSc Cloud
+
+| Critère | Évaluation | Détail |
+|---|---|---|
+| Rythme | ✅ Excellent | ≈ 2 sem école / 4 à 6 sem entreprise. Deux rentrées (automne et **février**), utile comme filet de sécurité si tu n'as pas d'entreprise en septembre ([fiche](https://www.epitech.eu/wp-content/uploads/Fiche-MSc_Cloud.pdf)) |
+| Reconnaissance | 🟠 Moyenne | Titre RNCP niveau 7 (Bac+5 reconnu par l'État), mais ce n'est ni un master national ni un diplôme d'ingénieur. Le titre « Architecte des systèmes d'information » est **certifié par ETNA** (école du même groupe IONIS), RNCP42634, valable jusqu'au 17/07/2031 ([France Compétences](https://www.francecompetences.fr/recherche/rncp/42634)). Le diplôme visé par l'État d'Epitech concerne son cursus Grande École, pas les MSc |
+| Qualité des cours | 🟠 Très variable | Pédagogie par projets, sans cours magistraux. Les avis sont très partagés : encadrement jugé faible, spécialisations inégales, un avis négatif sur la partie réseau du MSc Pro de Paris ([Diplomeo](https://diplomeo.com/diplomes/100378), [avis Paris](https://diplomeo.com/avis-epitech_paris-2063)) |
+| Contenu cloud | ❓ Non vérifié | La fiche officielle contient encore des « À REMPLIR ». Azure, Terraform et Kubernetes ne sont pas confirmés |
+| Coût | 🟠 | Gratuit pour l'étudiant en alternance. Mais Epitech facture environ 10 500 €/an en fin de cursus Grande École, donc le MSc dépasse probablement ce que finance l'OPCO, et l'employeur paie la différence. À vérifier ([brochure Grande École 2026](https://www.epitech.eu/wp-content/uploads/PGE-31-03-2026.pdf)) |
+| Insertion | ❓ | Seulement des chiffres donnés par l'école (salaire moyen de 43 400 € à 2 ans pour le cursus Grande École), aucune donnée indépendante sur le MSc |
+
+**Verdict** : un bon choix **pour le rythme et pour décrocher une alternance**, à condition de compenser toi-même le contenu (certifications AZ-104, AZ-305
+et Terraform, plus tes labs). Pour la valeur du diplôme et le coût, un master public ou l'ESGI peuvent être meilleurs.
