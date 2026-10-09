@@ -18,7 +18,9 @@ Légende statut : 🔴 expirée / pourvue (date dépassée) · 🟠 statut incer
 
 | Entreprise | Intitulé | Lieu | Date / rentrée | Stack / niveau | Statut | Source |
 |---|---|---|---|---|---|---|
-| AXA | **Azure Cloud Engineer Internship** (classée Alternance) | Paris | non datée | Azure, télétravail fréquent | 🟠 | [WTTJ](https://www.welcometothejungle.com/fr/companies/axa/jobs/azure-cloud-engineer-internship_paris) |
+| AXA Group Operations | **Azure Cloud Engineer Internship** (contrat **Alternance** malgré « Internship » dans le titre) | Paris | clôture le 19/06/2025 | Azure (équipe socle/landing zone) · 842 à 2 158 €/mois · télétravail fréquent | 🔴 | [AXA Recrutement n°3553](https://recrutement.axa.fr/nos-offres-emploi/3553-azure-cloud-engineer-internship) · [WTTJ](https://www.welcometothejungle.com/fr/companies/axa/jobs/azure-cloud-engineer-internship_paris) |
+| AXA (GIE AXA) | **Alternance – Cloud Operator** | Paris | — | **Azure DevOps, Terraform, Kubernetes** · M1/M2 | 🟠 | [AXA Recrutement n°17131](https://recrutement.axa.fr/nos-offres-emploi/17131-alternance-cloud-operator) |
+| AXA | **Ingénieur Cloud DevOps (H/F)** (alternance) · **Software Engineer Cloud (H/F) en Alternance** (Nanterre, 12 ou 24 mois, vers 2020) | Paris / Nanterre | anciennes | — | 🔴 | [Wizbii 1](https://www.wizbii.com/company/axa/job/ingenieur-cloud-devops-h-f-alternance) · [Wizbii 2](https://www.wizbii.com/company/axa/job/software-engineer-cloud-h-f-alternance) |
 | AXA | **Cloud Broker Apprenticeship** (Junior Cloud Engineer) | Paris | non datée | AWS, Python | 🟠 | [WTTJ](https://welcometothejungle.com/fr/companies/axa/jobs/cloud-broker-apprenticeship_paris) |
 | AXA Group Operations | **Ingénieur DevOps IA/LLM – Apprentissage H/F** | Paris 17e | rentrée 01/09/2026 | Azure, conteneurs, CI/CD, SOC · 24 mois, Bac+3 → Bac+5 | 🔴 | [JobTeaser](https://www.jobteaser.com/da/job-offers/2fe82f2b-85a3-4617-bd95-1e20a6124400-axa-group-operations-ingenieur-devops-ia-llm-apprentissage-h-f) |
 | Generali | **ALT – Ingénieur Cloud Azure – H/F** | Saint-Denis (93) | 05/04/2025 | Azure, DSI | 🔴 | [France Travail n°4726532](https://candidat.francetravail.fr/offres/recherche/detail/4726532) |
@@ -99,7 +101,7 @@ qui prépare l'AZ-104). Il s'agit d'une appréciation, pas d'une mesure.
 
 | Rang | Employeur | Cloud | Match | Récurrence | Accès | **Total** | Pourquoi |
 |---|---|---|---|---|---|---|---|
-| 1 | **AXA** | 5 | 5 | 5 | 3 | **18** | 3 intitulés cloud différents (Azure Cloud Engineer, Cloud Broker, DevOps IA/LLM). Bac+3 accepté sur un contrat de 24 mois |
+| 1 | **AXA** | 5 | 5 | 5 | 3 | **18** | 5 intitulés cloud en alternance (Azure Cloud Engineer, Cloud Operator, Cloud Broker, Cloud DevOps, DevOps IA/LLM). Bac+3 accepté sur un contrat de 24 mois |
 | 2 | **VINCI Construction SI** | 5 | 5 | 3 | 4 | **17** | L'offre la plus proche du profil : Azure, Terraform, Ansible, Azure DevOps. Licence ou M1 accepté |
 | 3 | **Thales** | 4 | 4 | 5 | 3 | **16** | Le plus gros volume : Cloud Ops, IA & Cloud, DevOps Système, DevOps Gennevilliers. Souvent Bac+5 |
 | 3 | **Devoteam** | 5 | 4 | 4 | 3 | **16** | ESN spécialiste du cloud (partenaire Microsoft et Google). Intitulés « Ingénieur Cloud » et « Consultant Cloud » chaque année |
