@@ -295,7 +295,7 @@ Critères, du plus important au moins important : **rythme** (temps passé en en
 | Tier | École / formation | Pourquoi |
 |---|---|---|
 | **S** *(si les vérifications passent)* | Epitech – MSc Cloud | Meilleur rythme (≈ 2 sem / 4 à 6 sem), rentrée de février en filet de sécurité. Contenu et coût à confirmer |
-| **A** | ESGI – Mastère Systèmes, Réseaux et Cloud Computing | 1 sem / 3 sem, sur place, cloud et réseau |
+| **B** *(rétrogradée)* | ESGI – Mastère Systèmes, Réseaux et Cloud Computing | Bon rythme (1 sem / 3 sem) et cours sur place, mais : école d'un grand réseau privé multi-campus (Réseau GES / Eductive), titre « Expert en architectures systèmes, réseaux et en sécurité informatique » orienté réseau (Cisco, LPIC, AWS, VMware) plus qu'Azure, environ 9 000 €/an (campus de Lille, 2024), avis partagés sur le niveau des intervenants, chiffres de placement non vérifiables ([Onisep](https://www.onisep.fr/ressources/structures-enseignement/hauts-de-france/nord/campus-skolae-lille-vauban/expert-en-architectures-systemes-reseaux-et-en-securite-informatique-esgi), [avis Diplomeo](https://diplomeo.com/etablissement-esgi_ecole_superieure_de_genie_informatique-1935)) |
 | **A** *(S si licence informatique)* | Sorbonne Université – parcours RES (apprentissage) | Diplôme national fort, presque gratuit pour l'employeur. Rythme à vérifier |
 | **B** | PMN – Mastère Expert Systèmes Cloud | Cloud pur (Azure, AWS, GCP, Kubernetes) plus une certification. Rythme inconnu, école peu connue |
 | **B** | ESSIN – Mastère Expert Systèmes Cloud FinOps | 1 sem / 3 sem, mais une partie à distance et une spécialité de niche |
