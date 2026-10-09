@@ -308,3 +308,14 @@ Critères, du plus important au moins important : **rythme** (temps passé en en
 | **C** | Guardia, Ynov Paris Ouest | Guardia est surtout orientée cyber, Ynov a un rythme flou et coûte 8 750 € |
 | **D** | Paris-Saclay (M1 Réseaux et Télécoms), MIAGE | 2,5 j / 2,5 j ou spécialité SI / data, peu de cloud |
 | **Écartées** | ESILV (3 sem école / 2 sem entreprise), EPITA (cycle ingénieur, entrée en Bac+4 peu probable) | Rythme ou niveau d'entrée incompatibles |
+
+### Zoom : CESI Mastère infrastructures et cybersécurité, ce que montre la brochure
+
+- Rythme confirmé : **3 semaines en entreprise / 1 semaine sur le campus**.
+- Outils mis à disposition : Cisco Networking Academy (Cybersecurity, Networking and Python), Stormshield Academy, environnements **Microsoft Azure** et **AWS**, norme ISO 27000.
+- « Certifications académiques » annoncées : Cisco CyberOps et CCNA, Microsoft Azure, Stormshield CSNA, Amazon AWS.
+  **À clarifier** : s'agit-il des **examens officiels payés par l'école** (CCNA 200-301 chez Pearson VUE, quel examen Azure exactement : AZ-900, AZ-104 ou AZ-500 ?)
+  ou seulement des **certificats de fin de cours** de la Cisco Academy avec une réduction sur l'examen ? Un certificat de cours Cisco n'est pas une certification officielle.
+- Double diplôme possible : **D.E.S.S. en cybersécurité de l'Université du Québec en Outaouais** (30 crédits, diplôme universitaire de 2e cycle). Coût, durée, séjour au Canada et sélection sont à demander ([programme UQO](https://etudier.uqo.ca/documents/programmes/PDF/1454.pdf)).
+- Chiffres affichés par l'école : 88 % (indicateur à préciser), 17e au top 20 Eduniversal.
+- **Parcours de certifications conseillé** : AZ-104 (avant la rentrée) → CCNA (via le CESI) + Terraform Associate (en autonomie) → **AZ-500** (sécurité Azure, cohérent avec l'orientation cyber du mastère).
