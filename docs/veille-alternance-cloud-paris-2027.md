@@ -342,6 +342,7 @@ Critères : correspondance avec Azure, Terraform et la sécurité ; récurrence 
 | **S** | **AXA** | Azure Cloud Engineer · Cloud Operator · DevOps IA/LLM | Paris | Azure pur, Terraform et Kubernetes (Cloud Operator), des offres chaque année |
 | **S** | **VINCI Construction SI** | Ingénieur Cloud Public – Alternance | Nanterre | Azure, Terraform, Ansible, Azure DevOps. Licence ou M1 accepté. Le poste le plus proche de « ingénieur cloud infra » |
 | **S** | **Generali** | ALT – Ingénieur Cloud Azure | Saint-Denis | Intitulé exact « ingénieur cloud Azure » |
+| **A** | **AP-HP** (DSN, Centre de Solutions Infrastructures) | Apprenti Ingénieur Infrastructure DevOps | Paris | Offre vue le 15/10/2026 : construction de l'infra (datacenters, virtualisation, plateformes cloud, infra en code, conteneurs, CI/CD). Correspond parfaitement au métier visé, 1er employeur d'Île-de-France. Une seule offre vue pour l'instant ([relevé du 29/10](offres-alternance-live-2026-10-29.md)) |
 | **A** | **Thales** | Ingénieur Cloud Ops · IA & Cloud – infrastructure sécurisée · DevOps | Gennevilliers / nord de Paris | Le plus de volume. Cloud + sécurité, cohérent avec le mastère cyber |
 | **A** | **Société Générale** | Ingénieur DevOps · Infrastructure Production | La Défense / Fontenay | Stratégie « Cloud First », La Défense est à côté du campus |
 | **A** | **BNP Paribas** | DevOps · production / IaaS | Paris / Montreuil | Gros volume. Le parcours B-school passe par le CESI, donc il ne te concerne plus avec Epitech |
