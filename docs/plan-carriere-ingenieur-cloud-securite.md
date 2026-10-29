@@ -58,3 +58,16 @@ et **environ la moitié du chiffre d'affaires en net** en portage salarial. Les 
 **Via un cabinet (Hays et autres)** : demande toujours **le TJM que tu touches toi**, pas celui que paie le client. Le cabinet prend sa marge entre les deux.
 Sources Hays 2026 : [métiers les plus recherchés](https://www.hays.fr/conseils-carriere/article/metiers-les-plus-recherches-en-2026-salaires),
 [synthèse de l'étude](https://www.cegelem.fr/actualites/annee-2026/les-taux-journaliers-de-la-tech-evoluent-en-2026-selon-letude-hays/).
+
+## Freelance après 2 ou 3 ans de CDI ? (estimations, net en portage ≈ la moitié du chiffre d'affaires, 180 jours facturés par an)
+
+| Année | A : freelance après 2 ans de CDI | B : freelance après 3 ans de CDI |
+|---|---|---|
+| 2031-32 | Freelance à 550 € / jour → ≈ 50 k€ net | CDI en ESN (≈ 50 k€ brut) → ≈ 39 k€ net |
+| 2032-33 | 650 € / jour → ≈ 58 k€ net | Freelance confirmé à 650 € / jour → ≈ 58 k€ net |
+| 2033-34 | 700 € / jour → ≈ 63 k€ net | 720 € / jour → ≈ 65 k€ net |
+| **Total sur 3 ans** | **≈ 171 k€** | **≈ 162 k€** |
+
+Écart d'environ 9 k€ en faveur de A, **à condition de remplir ses jours** dès 2031 (plus difficile en junior).
+B est plus sûr et permet peut-être d'obtenir le vrai CISSP avant de partir.
+Choisir A si les 4 conditions de la checklist sont réunies, sinon B.
