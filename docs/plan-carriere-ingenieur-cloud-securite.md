@@ -99,3 +99,20 @@ Ce qui le fait vraiment monter : **des missions en direct** et **des référence
 
 **Conclusion** : seule la **Suisse** paie nettement plus. Ailleurs, un freelance confirmé est payé à peu près comme en France.
 Le meilleur moment pour partir est **une fois confirmé (vers 2031-2033)**, avec un anglais de niveau C1 (et de l'allemand pour Zurich).
+
+## Révision : grand groupe, ESN ou freelance ? (net annuel estimé)
+
+| Profil | CDI grand groupe | CDI ESN spécialisée | Freelance (portage, 180 j) |
+|---|---|---|---|
+| Junior (0-3 ans) | 43-50 k€ brut ≈ 34-39 k€ net + primes (quelques k€) | 40-46 k€ brut ≈ 31-36 k€ net | 450-550 € / j ≈ 40-50 k€ net |
+| Confirmé (3-7 ans) | 58-70 k€ brut ≈ 45-55 k€ net + primes | 55-62 k€ brut ≈ 43-48 k€ net | 600-725 € / j ≈ 54-65 k€ net |
+| Senior (8 ans et plus, direct) | ≈ 70-85 k€ brut (architecte) | — | 750-900 € / j et plus ≈ 68-80 k€ net et plus |
+
+**Conclusion** : en junior et en confirmé, un **CDI en grand groupe (primes comprises) vaut presque le freelance**, sans le risque.
+Le freelance ne devient nettement plus intéressant qu'en **senior, en direct**, ou en **Suisse**.
+
+**Scénario recommandé (révisé)** :
+1. 2027-29 : alternance dans un grand groupe, **dans une équipe qui construit l'infra** (plateforme cloud, sécurité).
+2. 2029 : **CDI dans ce grand groupe** si le poste est technique. L'ESN n'a d'intérêt que si le poste proposé est surtout du pilotage, ou s'il n'y a pas de CDI.
+3. Dans le grand groupe : certifications (AZ-305, SC-100, CISSP), mobilité interne vers l'architecture sécurité cloud.
+4. Vers 2034-2036 (senior) : freelance **directement depuis le grand groupe** (sans passer par une ESN), ou Suisse, si l'envie est là.
