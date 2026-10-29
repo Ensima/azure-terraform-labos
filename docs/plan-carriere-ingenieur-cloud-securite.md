@@ -116,3 +116,18 @@ Le freelance ne devient nettement plus intéressant qu'en **senior, en direct**,
 2. 2029 : **CDI dans ce grand groupe** si le poste est technique. L'ESN n'a d'intérêt que si le poste proposé est surtout du pilotage, ou s'il n'y a pas de CDI.
 3. Dans le grand groupe : certifications (AZ-305, SC-100, CISSP), mobilité interne vers l'architecture sécurité cloud.
 4. Vers 2034-2036 (senior) : freelance **directement depuis le grand groupe** (sans passer par une ESN), ou Suisse, si l'envie est là.
+
+## Option : s'expatrier dès le diplôme (2029), en CDI
+
+L'alternance est un contrat français : l'expatriation se fait **après le MSc, en 2029**. En CDI, **même un junior gagne plus en Suisse et au Luxembourg**
+(contrairement au freelance, où le tarif junior reste bas partout).
+
+| Destination | Junior cloud (0-2 ans), brut / an | Repère net | Points d'attention |
+|---|---|---|---|
+| France (grand groupe) | 43-50 k€ + primes | ≈ 34-39 k€ / an | Référence |
+| **Luxembourg** | **52-62 k€** (certifications cloud : + 5 à 12 k€ selon un agrégateur) | ≈ 3 100-3 600 € / mois (célibataire) | Option **frontalier** (Lorraine). Fiscalité frontalier à vérifier |
+| **Genève** | **80-100 k CHF** | — | Option **frontalier** (Haute-Savoie, Ain). Loyers et assurance maladie très élevés si on habite en Suisse |
+| **Zurich** | ≈ 10 à 15 % de plus qu'à Genève | — | Allemand souvent demandé |
+
+**Astuce** : choisir une alternance dans un groupe présent au Luxembourg ou en Suisse (BNP Paribas, SG, AXA, Thales…) pour pouvoir y être muté plus tard en interne.
+Préparer pendant le MSc : anglais C1 (+ allemand pour Zurich), candidatures au Luxembourg et à Genève au dernier semestre (printemps 2029).
