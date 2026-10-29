@@ -85,3 +85,17 @@ Bases de calcul : environ **180 jours facturés par an**, et **environ la moiti�
 
 Avec les vrais tarifs, **l'écart est faible (≈ 6 k€ sur 3 ans)**. La 3e année ne fait pas monter le TJM de départ autant que les grilles le laissent croire.
 Ce qui le fait vraiment monter : **des missions en direct** et **des références en sécurité**.
+
+## Option expatriation (repères 2025-2026, peu de données, à revérifier)
+
+| Pays | Repère freelance cloud / Azure | Remarques |
+|---|---|---|
+| France (Île-de-France) | 450-550 € / jour en junior via intermédiaire, 600-725 € confirmé | Référence |
+| **Suisse** (Zurich, Genève, Bâle) | **≈ 800-1 000 CHF / jour** (quelques annonces). CDI Azure : 90-115 k CHF / an | Coût de la vie très élevé, allemand souvent demandé à Zurich. Possibilité d'être **frontalier** à Genève ou Bâle |
+| Royaume-Uni | Médiane Azure Engineer à Londres ≈ **500 £ / jour**, Azure Consultant hors Londres ≈ 550 £ / jour | Visa nécessaire depuis le Brexit, Londres très cher |
+| Pays-Bas | Moyenne de tous les freelances ≈ 83 € / heure (pas propre au cloud) | Anglais suffisant |
+| Suède | Une mission Azure sécurité à 650-700 € / jour | Une seule annonce |
+| Luxembourg | Pas de données fiables trouvées | Secteur financier, possibilité d'être frontalier |
+
+**Conclusion** : seule la **Suisse** paie nettement plus. Ailleurs, un freelance confirmé est payé à peu près comme en France.
+Le meilleur moment pour partir est **une fois confirmé (vers 2031-2033)**, avec un anglais de niveau C1 (et de l'allemand pour Zurich).
