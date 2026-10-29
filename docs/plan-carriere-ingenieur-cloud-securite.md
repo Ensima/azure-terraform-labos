@@ -42,32 +42,46 @@ Objectif : **démarrer en freelance vers 2031 comme « Ingénieur Cloud Azure �
 - [ ] Profils Malt et Free-Work à jour, dépôt GitHub propre
 - [ ] Statut choisi : portage salarial pour démarrer
 
-## TJM visés (estimations, Île-de-France)
+## TJM visés : recalés sur de vraies missions correspondant au profil (Île-de-France)
 
-Bases de calcul : environ **180 jours facturés par an** (environ 220 jours ouvrés, moins les congés et les périodes sans mission),
-et **environ la moitié du chiffre d'affaires en net** en portage salarial. Les fourchettes viennent de baromètres déclaratifs 2026
-(Blog du Modérateur, lefreelance.fr, Freelance Solution).
+**Missions réelles relevées (2026) qui correspondent au profil visé** :
 
-| Période | Profil | TJM | Chiffre d'affaires annuel | Net estimé / an |
-|---|---|---|---|---|
-| 2031 (début freelance) | Ingénieur Cloud Azure – Sécurité, 2 ans après le diplôme + 2 ans d'alternance | **520 à 600 €** (référence Hays pour 0-3 ans en cybersécurité ou cloud/DevOps : **520 €**) | 94 à 108 k€ | ≈ 47 à 54 k€ |
-| 2033 | Confirmé (5 ans et plus), vrai CISSP | **650 à 750 €** | 117 à 135 k€ | ≈ 58 à 68 k€ |
-| 2035+ | Architecte cloud sécurité senior | **750 à 900 €** et plus (jusqu'à 1 000 € et plus en cybersécurité pointue) | 135 à 162 k€ et plus | ≈ 68 à 80 k€ et plus |
-| *Pour comparer* | *CDI en ESN, 3e année* | — | — | *≈ 39 k€ (50 k€ brut)* |
+| Mission | Expérience demandée | TJM proposé | Source |
+|---|---|---|---|
+| **Azure Security Engineer** (Azure Policy, Terraform), Paris | 3 ans et plus | **450 à 500 €** HT | [Collective.work via Wizbii](https://www.wizbii.com/company/collective-work/job/azure-security-engineer-azure-policy-terraform-3-ans-xp-freelance) |
+| SysOps / SecOps Azure senior (landing zones, IAM, Terraform), Paris, 12 mois | senior | 300 à 500 € | recherche web (Free-Work) |
+| Ingénieur Cloud Azure / DevOps confirmé, Paris | confirmé | 550 à 600 € | [Free-Work – Azure](https://www.free-work.com/fr/tech-it/jobs/azure) |
+| Ingénieur Build Microsoft Sentinel confirmé, Paris | confirmé | 600 € | [Cyberfreelance](https://www.cyberfreelance.fr/trouver-une-mission) |
+| Analyste SOC N2/N3 Microsoft (Defender, Sentinel), Paris | — | 260 à 480 € | [Free-Work](https://www.free-work.com/fr/tech-it/jobs/entra-id) |
 
-**Via un cabinet (Hays et autres)** : demande toujours **le TJM que tu touches toi**, pas celui que paie le client. Le cabinet prend sa marge entre les deux.
-Sources Hays 2026 : [métiers les plus recherchés](https://www.hays.fr/conseils-carriere/article/metiers-les-plus-recherches-en-2026-salaires),
-[synthèse de l'étude](https://www.cegelem.fr/actualites/annee-2026/les-taux-journaliers-de-la-tech-evoluent-en-2026-selon-letude-hays/).
+**Grilles générales (pour comparer)** : spécialiste sécurité cloud junior 400 à 550 € (médiane 475 €), confirmé de 3 à 7 ans 600 à 850 € (médiane 725 €)
+([Travail-Industrie](https://travail-industrie.com/simulateur-tjm/cybersecurite-reseaux/cloud-security-specialist/confirme)) ;
+Hays 2026 : 520 € (0-3 ans) → 700 € (plus de 8 ans) en cybersécurité ou cloud/DevOps
+([Hays](https://www.hays.fr/conseils-carriere/article/metiers-les-plus-recherches-en-2026-salaires)).
 
-## Freelance après 2 ou 3 ans de CDI ? (estimations, net en portage ≈ la moitié du chiffre d'affaires, 180 jours facturés par an)
+⚠️ **Les missions réelles passées par des intermédiaires sont en dessous des grilles.** Pour « Azure sécurité + Terraform, 3 ans », le marché propose
+**450 à 500 €**. En direct avec le client, le tarif est plus élevé, puisque l'intermédiaire ne prend pas sa marge.
+
+Bases de calcul : environ **180 jours facturés par an**, et **environ la moitié du chiffre d'affaires en net** en portage salarial.
+
+| Période | Profil | TJM réaliste | Net estimé / an |
+|---|---|---|---|
+| 2031 (après 2 ans de CDI) | Ingénieur Cloud Azure – Sécurité | **450 à 550 €** (via intermédiaire) | ≈ 40 à 50 k€ |
+| 2032 (après 3 ans de CDI) | Idem, 3 ans d'expérience | **500 à 600 €** | ≈ 45 à 54 k€ |
+| 2034+ | Confirmé (5 ans et plus), vrai CISSP, références sécurité | **600 à 725 €** | ≈ 54 à 65 k€ |
+| 2036+ | Architecte cloud sécurité senior, missions en direct | **750 € et plus** | ≈ 68 k€ et plus |
+| *Pour comparer* | *CDI en ESN, 3e année* | — | *≈ 39 k€ (50 k€ brut)* |
+
+**Via un cabinet (Hays et autres)** : demande toujours **le TJM que tu touches toi**, pas celui que paie le client.
+
+## Freelance après 2 ou 3 ans de CDI ? (TJM recalés sur les missions réelles)
 
 | Année | A : freelance après 2 ans de CDI | B : freelance après 3 ans de CDI |
 |---|---|---|
-| 2031-32 | Freelance à 550 € / jour → ≈ 50 k€ net | CDI en ESN (≈ 50 k€ brut) → ≈ 39 k€ net |
-| 2032-33 | 650 € / jour → ≈ 58 k€ net | Freelance confirmé à 650 € / jour → ≈ 58 k€ net |
-| 2033-34 | 700 € / jour → ≈ 63 k€ net | 720 € / jour → ≈ 65 k€ net |
-| **Total sur 3 ans** | **≈ 171 k€** | **≈ 162 k€** |
+| 2031-32 | Freelance à 500 € / jour → ≈ 45 k€ net | CDI en ESN → ≈ 39 k€ net |
+| 2032-33 | 550 € / jour → ≈ 50 k€ net | Freelance à 550 € / jour → ≈ 50 k€ net |
+| 2033-34 | 600 € / jour → ≈ 54 k€ net | 600 € / jour → ≈ 54 k€ net |
+| **Total sur 3 ans** | **≈ 149 k€** | **≈ 143 k€** |
 
-Écart d'environ 9 k€ en faveur de A, **à condition de remplir ses jours** dès 2031 (plus difficile en junior).
-B est plus sûr et permet peut-être d'obtenir le vrai CISSP avant de partir.
-Choisir A si les 4 conditions de la checklist sont réunies, sinon B.
+Avec les vrais tarifs, **l'écart est faible (≈ 6 k€ sur 3 ans)**. La 3e année ne fait pas monter le TJM de départ autant que les grilles le laissent croire.
+Ce qui le fait vraiment monter : **des missions en direct** et **des références en sécurité**.
