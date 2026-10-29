@@ -50,7 +50,11 @@ et **environ la moitié du chiffre d'affaires en net** en portage salarial. Les 
 
 | Période | Profil | TJM | Chiffre d'affaires annuel | Net estimé / an |
 |---|---|---|---|---|
-| 2031 (début freelance) | Ingénieur Cloud Azure – Sécurité, environ 4 ans dont 2 en alternance | **550 à 650 €** | 99 à 117 k€ | ≈ 50 à 58 k€ |
+| 2031 (début freelance) | Ingénieur Cloud Azure – Sécurité, 2 ans après le diplôme + 2 ans d'alternance | **520 à 600 €** (référence Hays pour 0-3 ans en cybersécurité ou cloud/DevOps : **520 €**) | 94 à 108 k€ | ≈ 47 à 54 k€ |
 | 2033 | Confirmé (5 ans et plus), vrai CISSP | **650 à 750 €** | 117 à 135 k€ | ≈ 58 à 68 k€ |
 | 2035+ | Architecte cloud sécurité senior | **750 à 900 €** et plus (jusqu'à 1 000 € et plus en cybersécurité pointue) | 135 à 162 k€ et plus | ≈ 68 à 80 k€ et plus |
 | *Pour comparer* | *CDI en ESN, 3e année* | — | — | *≈ 39 k€ (50 k€ brut)* |
+
+**Via un cabinet (Hays et autres)** : demande toujours **le TJM que tu touches toi**, pas celui que paie le client. Le cabinet prend sa marge entre les deux.
+Sources Hays 2026 : [métiers les plus recherchés](https://www.hays.fr/conseils-carriere/article/metiers-les-plus-recherches-en-2026-salaires),
+[synthèse de l'étude](https://www.cegelem.fr/actualites/annee-2026/les-taux-journaliers-de-la-tech-evoluent-en-2026-selon-letude-hays/).
