@@ -294,9 +294,9 @@ Critères, du plus important au moins important : **rythme** (temps passé en en
 
 | Tier | École / formation | Pourquoi |
 |---|---|---|
-| ~~S~~ **Écartée (choix perso)** | Epitech – MSc Cloud | Meilleur rythme (≈ 2 sem / 4 à 6 sem), mais l'admission passe par un test de code algorithmique (CoderPad) que je ne veux pas préparer |
+| **S – CHOIX FINAL** | **Epitech – MSc Cloud** | Meilleur rythme (≈ 2 sem / 4 à 6 sem), 2 rentrées (automne et février). Admission : test de code algorithmique (CoderPad) + entretien, à préparer (voir section 8) |
 | **B** *(rétrogradée)* | ESGI – Mastère Systèmes, Réseaux et Cloud Computing | Bon rythme (1 sem / 3 sem) et cours sur place, mais : école d'un grand réseau privé multi-campus (Réseau GES / Eductive), titre « Expert en architectures systèmes, réseaux et en sécurité informatique » orienté réseau (Cisco, LPIC, AWS, VMware) plus qu'Azure, environ 9 000 €/an (campus de Lille, 2024), avis partagés sur le niveau des intervenants, chiffres de placement non vérifiables ([Onisep](https://www.onisep.fr/ressources/structures-enseignement/hauts-de-france/nord/campus-skolae-lille-vauban/expert-en-architectures-systemes-reseaux-et-en-securite-informatique-esgi), [avis Diplomeo](https://diplomeo.com/etablissement-esgi_ecole_superieure_de_genie_informatique-1935)) |
-| **S** *(si déjà au CESI)* | **CESI – Mastère Manager en infrastructures et cybersécurité des SI** (Paris-Nanterre) | **1 sem / mois au CESI, 3 sem en entreprise**, sur place, orienté infrastructure (module « Sécurité du cloud »), peu de code, RNCP38779 niveau 7, 24 mois. Continuité interne (admission et CFA), école très présente chez les grands groupes (partenariat B-school BNP Paribas). Point faible : moins « cloud pur », à compléter avec l'AZ-104 et Terraform ([fiche programme 2026](https://www.cesi.fr/wp-content/uploads/2025/10/Fiches-2026Fiche-Programme-Detaillee-2371644.pdf)) |
+| **Plan B** | **CESI – Mastère Manager en infrastructures et cybersécurité des SI** (Paris-Nanterre) | **1 sem / mois au CESI, 3 sem en entreprise**, sur place, orienté infrastructure (module « Sécurité du cloud »), peu de code, RNCP38779 niveau 7, 24 mois. Continuité interne (admission et CFA), école très présente chez les grands groupes (partenariat B-school BNP Paribas). Point faible : moins « cloud pur », à compléter avec l'AZ-104 et Terraform ([fiche programme 2026](https://www.cesi.fr/wp-content/uploads/2025/10/Fiches-2026Fiche-Programme-Detaillee-2371644.pdf)) |
 | **S** *(si accessible)* | **CESI – cycle ingénieur informatique par apprentissage** (Paris-Nanterre) | Diplôme d'ingénieur, 1 sem / 3 sem. Vérifier si l'entrée est possible depuis ton bachelor (passerelle) et à quelle année ([Onisep](https://www.onisep.fr/ressources/structures-enseignement/ile-de-france/hauts-de-seine/cesi-ecole-d-ingenieurs-campus-de-paris-nanterre/diplome-d-ingenieur-du-cesi-specialite-informatique)) |
 | **A** *(via BNP)* / B sinon | CESI – Mastère MAALSI, parcours **B-school by BNP Paribas** | Partenariat concret avec un grand groupe : cours au CESI Nanterre, 910 h sur 2 ans (3 sem de cours / 8 sem chez BNP), orienté production informatique et exploitation (parcours « [IAAS] »). Recrutement par BNP (test en ligne et 2 entretiens). Hors BNP, le MAALSI est orienté développement : à éviter ([fiche BNP](https://cdn-group.bnpparibas.com/uploads/file/BSchool_BNPParibas_Mastere_MAALSI.pdf), [offre 2026](https://group.bnpparibas/emploi-carriere/offre-emploi/alternance-bac-5-manager-en-architecture-et-applications-logicielles-des-systemes-d-information-maalsi-b-school-by-bnp-paribas-h-f)) |
 | **A** *(S si licence informatique)* | Sorbonne Université – parcours RES (apprentissage) | Diplôme national fort, presque gratuit pour l'employeur. Rythme à vérifier |
@@ -333,20 +333,20 @@ Critères, du plus important au moins important : **rythme** (temps passé en en
 
 ## 7. Tier list des entreprises (mise à jour pour le profil final)
 
-Profil : **Bac+4 (M1) en septembre 2027, mastère infrastructures et cybersécurité du CESI Nanterre (3 sem / 1 sem), Azure + Terraform, peu de code**.
+Profil : **Bac+4 (M1) en septembre 2027, Epitech MSc Cloud (≈ 2 sem école / 4 à 6 sem entreprise), objectif ingénieur cloud / infrastructure, Azure + Terraform**.
 Critères : correspondance avec Azure, Terraform et la sécurité ; récurrence des offres ; accessibilité en M1 sur un contrat de 24 mois ; trajet depuis Nanterre.
 
 | Tier | Entreprise | Poste type (intitulés déjà vus) | Lieu | Pourquoi |
 |---|---|---|---|---|
 | **S** | **AXA** | Azure Cloud Engineer · Cloud Operator · DevOps IA/LLM | Paris | Azure pur, Terraform et Kubernetes (Cloud Operator), des offres chaque année |
-| **S** | **VINCI Construction SI** | Ingénieur Cloud Public – Alternance | **Nanterre** | Azure, Terraform, Ansible, Azure DevOps. Licence ou M1 accepté. Même ville que le campus |
-| **S** | **BNP Paribas** | B-school MAALSI « [IAAS] » · DevOps | Paris / Montreuil | **Canal direct avec le CESI Nanterre** (B-school) |
+| **S** | **VINCI Construction SI** | Ingénieur Cloud Public – Alternance | Nanterre | Azure, Terraform, Ansible, Azure DevOps. Licence ou M1 accepté. Le poste le plus proche de « ingénieur cloud infra » |
+| **S** | **Generali** | ALT – Ingénieur Cloud Azure | Saint-Denis | Intitulé exact « ingénieur cloud Azure » |
 | **A** | **Thales** | Ingénieur Cloud Ops · IA & Cloud – infrastructure sécurisée · DevOps | Gennevilliers / nord de Paris | Le plus de volume. Cloud + sécurité, cohérent avec le mastère cyber |
 | **A** | **Société Générale** | Ingénieur DevOps · Infrastructure Production | La Défense / Fontenay | Stratégie « Cloud First », La Défense est à côté du campus |
-| **A** | **Generali** | ALT – Ingénieur Cloud Azure | Saint-Denis | Intitulé parfait, mais une seule offre vue |
+| **A** | **BNP Paribas** | DevOps · production / IaaS | Paris / Montreuil | Gros volume. Le parcours B-school passe par le CESI, donc il ne te concerne plus avec Epitech |
 | **A** | **Devoteam** | Alternant Ingénieur Cloud · Consultant Cloud | Levallois | Entreprise de conseil spécialisée cloud (Azure, GCP). On y progresse vite et sur plusieurs projets |
 | **A** | **Capgemini** | Ingénieur Cloud DevOps | Issy / Paris | Gros volume, multi-cloud |
-| **B** | Schneider Electric | Alternance – Ingénieur Cloud | **Rueil-Malmaison** | Offre cloud récente, tout près de Nanterre |
+| **B** | Schneider Electric | Alternance – Ingénieur Cloud | Rueil-Malmaison | Intitulé « Ingénieur Cloud », offre récente |
 | **B** | Safran | DevSecOps · Cybersécurité | Massy | Sécurité et industrie, trajet long |
 | **B** | Orange | Data & Cloud Engineer | Châtillon | Très gros recruteur d'alternants, mais cloud surtout côté data |
 | **B** | Bouygues Telecom | CI/CD · Data (GCP) | Meudon | Peu de cloud pur |
@@ -358,3 +358,22 @@ Critères : correspondance avec Azure, Terraform et la sécurité ; récurrence 
 
 **Répartition conseillée des candidatures (30 à 50)** : la totalité des S et des A (au moins 2 candidatures par entreprise sur des intitulés différents),
 une sélection de B, 1 ou 2 C, et 10 à 15 candidatures spontanées.
+
+---
+
+## 8. Plan final : Epitech MSc Cloud, objectif ingénieur cloud / infrastructure
+
+### Intitulés à chercher
+
+`Ingénieur Cloud` · `Cloud Engineer` · `Ingénieur Infrastructure Cloud` · `Cloud Ops` · `Ingénieur Systèmes & Cloud` · `Platform Engineer` ·
+`Ingénieur DevOps` (quand le poste est orienté infra) · `Ingénieur de production` · `SRE`
+
+### Calendrier
+
+| Période | Admission Epitech | Compétences | Alternance |
+|---|---|---|---|
+| **Nov. – déc. 2026** | Portes ouvertes (checklist dans `docs/checklist-jpo-epitech-msc-cloud.md`) | Bases de Python : variables, boucles, fonctions, listes, dictionnaires | CV + LinkedIn (titre : « Futur alternant Ingénieur Cloud Azure – Epitech MSc Cloud ») |
+| **Janv. 2027** | Candidature + test CoderPad + entretien (viser une admission tôt) | 20 à 30 exercices LeetCode Easy en parlant à voix haute. **AZ-104** | Alertes sur les intitulés ci-dessus, tier S et A |
+| **Févr. – avr. 2027** | — | Terraform Associate (en option avant la rentrée) | **Pic des candidatures** : 30 à 50 envois |
+| **Mai – août 2027** | — | Labs : AKS, pipeline CI, Azure Policy, scripts Python et Azure | Relances, 2e vague d'offres |
+| **Sept. 2027** (ou **févr. 2028** en plan B) | Rentrée | — | Début du contrat (24 mois) |
