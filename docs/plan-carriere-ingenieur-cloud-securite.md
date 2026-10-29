@@ -131,3 +131,13 @@ L'alternance est un contrat français : l'expatriation se fait **après le MSc, 
 
 **Astuce** : choisir une alternance dans un groupe présent au Luxembourg ou en Suisse (BNP Paribas, SG, AXA, Thales…) pour pouvoir y être muté plus tard en interne.
 Préparer pendant le MSc : anglais C1 (+ allemand pour Zurich), candidatures au Luxembourg et à Genève au dernier semestre (printemps 2029).
+
+## S'expatrier le plus vite possible : 3 vitesses
+
+| Vitesse | Quand | Comment | Pour | Contre |
+|---|---|---|---|---|
+| **Express** | **Sept. 2027** (après le Bac+3) | CDI junior (admin systèmes / cloud ops) au **Luxembourg ou à Genève, en frontalier**, avec Bac+3 + 1 an d'alternance + AZ-104 | Salaire étranger dès 2027 | Plus dur à décrocher avec un Bac+3. Le Bac+5 serait à faire plus tard (à distance ou en cours du soir) |
+| **Rapide** | **2027 → 2029** | **Master à l'étranger** : Université du Luxembourg (*Master in Information and Computer Sciences*, en anglais, ou master en management de la sécurité des SI), **400 € / semestre**, candidatures UE du 1er février au 15 juillet (calendrier 2026). Autres pistes : Québec (tarif québécois pour les Français en maîtrise), EPFL / ETH (2 190 CHF / semestre pour les étrangers, très sélectif) | Diplôme et réseau locaux, emploi sur place en 2029 | Pas de salaire d'alternance, coût de la vie |
+| **Sûre** | **2029** | Epitech MSc + alternance dans un groupe présent au Luxembourg ou en Suisse, puis frontalier ou mutation interne | Salaire d'alternance, expérience en grand groupe | 2 ans de plus en France |
+
+Les citoyens français peuvent travailler au Luxembourg et en Suisse sans visa (libre circulation, avec un permis suisse lié au contrat de travail).
