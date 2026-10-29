@@ -49,10 +49,10 @@ Objectif : **démarrer en freelance vers 2031 comme « Ingénieur Cloud Azure �
 | Mission | Expérience demandée | TJM proposé | Source |
 |---|---|---|---|
 | **Azure Security Engineer** (Azure Policy, Terraform), Paris | 3 ans et plus | **450 à 500 €** HT | [Collective.work via Wizbii](https://www.wizbii.com/company/collective-work/job/azure-security-engineer-azure-policy-terraform-3-ans-xp-freelance) |
-| SysOps / SecOps Azure senior (landing zones, IAM, Terraform), Paris, 12 mois | senior | 300 à 500 € | recherche web (Free-Work) |
+| SysOps / SecOps Azure senior (landing zones, IAM, Terraform), Paris, 12 mois | senior | 300 à 500 € | résultat de recherche web (plateforme non confirmée) |
 | Ingénieur Cloud Azure / DevOps confirmé, Paris | confirmé | 550 à 600 € | [Free-Work – Azure](https://www.free-work.com/fr/tech-it/jobs/azure) |
 | Ingénieur Build Microsoft Sentinel confirmé, Paris | confirmé | 600 € | [Cyberfreelance](https://www.cyberfreelance.fr/trouver-une-mission) |
-| Analyste SOC N2/N3 Microsoft (Defender, Sentinel), Paris | — | 260 à 480 € | [Free-Work](https://www.free-work.com/fr/tech-it/jobs/entra-id) |
+| Analyste SOC N2/N3 Microsoft (Defender, Sentinel), Paris | — | 260 à 480 € | Free-Work (résultat de recherche web) |
 
 **Grilles générales (pour comparer)** : spécialiste sécurité cloud junior 400 à 550 € (médiane 475 €), confirmé de 3 à 7 ans 600 à 850 € (médiane 725 €)
 ([Travail-Industrie](https://travail-industrie.com/simulateur-tjm/cybersecurite-reseaux/cloud-security-specialist/confirme)) ;
