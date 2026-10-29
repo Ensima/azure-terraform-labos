@@ -41,3 +41,16 @@ Objectif : **démarrer en freelance vers 2031 comme « Ingénieur Cloud Azure �
 - [ ] 2 ou 3 personnes prêtes à te recommander
 - [ ] Profils Malt et Free-Work à jour, dépôt GitHub propre
 - [ ] Statut choisi : portage salarial pour démarrer
+
+## TJM visés (estimations, Île-de-France)
+
+Bases de calcul : environ **180 jours facturés par an** (environ 220 jours ouvrés, moins les congés et les périodes sans mission),
+et **environ la moitié du chiffre d'affaires en net** en portage salarial. Les fourchettes viennent de baromètres déclaratifs 2026
+(Blog du Modérateur, lefreelance.fr, Freelance Solution).
+
+| Période | Profil | TJM | Chiffre d'affaires annuel | Net estimé / an |
+|---|---|---|---|---|
+| 2031 (début freelance) | Ingénieur Cloud Azure – Sécurité, environ 4 ans dont 2 en alternance | **550 à 650 €** | 99 à 117 k€ | ≈ 50 à 58 k€ |
+| 2033 | Confirmé (5 ans et plus), vrai CISSP | **650 à 750 €** | 117 à 135 k€ | ≈ 58 à 68 k€ |
+| 2035+ | Architecte cloud sécurité senior | **750 à 900 €** et plus (jusqu'à 1 000 € et plus en cybersécurité pointue) | 135 à 162 k€ et plus | ≈ 68 à 80 k€ et plus |
+| *Pour comparer* | *CDI en ESN, 3e année* | — | — | *≈ 39 k€ (50 k€ brut)* |
