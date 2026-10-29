@@ -328,3 +328,33 @@ Critères, du plus important au moins important : **rythme** (temps passé en en
 | Promotions dédiées avec des ESN (autres campus) | Capgemini : promotion de 17 places « Manager SI » à Toulouse (2022). Sopra Steria : partenariat avec le campus de Toulouse (2019) | [CESI Toulouse – Capgemini](https://toulouse.cesi.fr/fr/actualites/capgemini-apprentis-informatique/), [CESI Toulouse – Sopra Steria](https://toulouse.cesi.fr/fr/actualites/partenariat-cesi-sopra-steria/) |
 | Partenaires techniques du mastère infra | Cisco, Microsoft, Stormshield, AWS (académies, environnements de travail, certifications) | [Fiche métier](https://www.cesi.fr/formation/mastere-professionnel-manager-en-infrastructures-et-cybersecurite-des-si-en-alternance-2371644/pdf_fr/dc_r_fichemetiercandidat/apprenti/) |
 | Réseau général | Environ 8 000 entreprises d'accueil (jusqu'à 10 000 selon les sources), 25 campus, plus de 100 000 anciens élèves. Chargés de relations entreprises au pôle informatique et numérique de Nanterre, forums (notamment sur Seekube), ateliers CV | [Blog du Modérateur](https://www.blogdumoderateur.com/presentation-alternance-cesi/), [Les Jeudis](https://blog.lesjeudis.com/interview-maelig-gesbert-chargee-relations-entreprises-au-cesi) |
+
+---
+
+## 7. Tier list des entreprises (mise à jour pour le profil final)
+
+Profil : **Bac+4 (M1) en septembre 2027, mastère infrastructures et cybersécurité du CESI Nanterre (3 sem / 1 sem), Azure + Terraform, peu de code**.
+Critères : correspondance avec Azure, Terraform et la sécurité ; récurrence des offres ; accessibilité en M1 sur un contrat de 24 mois ; trajet depuis Nanterre.
+
+| Tier | Entreprise | Poste type (intitulés déjà vus) | Lieu | Pourquoi |
+|---|---|---|---|---|
+| **S** | **AXA** | Azure Cloud Engineer · Cloud Operator · DevOps IA/LLM | Paris | Azure pur, Terraform et Kubernetes (Cloud Operator), des offres chaque année |
+| **S** | **VINCI Construction SI** | Ingénieur Cloud Public – Alternance | **Nanterre** | Azure, Terraform, Ansible, Azure DevOps. Licence ou M1 accepté. Même ville que le campus |
+| **S** | **BNP Paribas** | B-school MAALSI « [IAAS] » · DevOps | Paris / Montreuil | **Canal direct avec le CESI Nanterre** (B-school) |
+| **A** | **Thales** | Ingénieur Cloud Ops · IA & Cloud – infrastructure sécurisée · DevOps | Gennevilliers / nord de Paris | Le plus de volume. Cloud + sécurité, cohérent avec le mastère cyber |
+| **A** | **Société Générale** | Ingénieur DevOps · Infrastructure Production | La Défense / Fontenay | Stratégie « Cloud First », La Défense est à côté du campus |
+| **A** | **Generali** | ALT – Ingénieur Cloud Azure | Saint-Denis | Intitulé parfait, mais une seule offre vue |
+| **A** | **Devoteam** | Alternant Ingénieur Cloud · Consultant Cloud | Levallois | Entreprise de conseil spécialisée cloud (Azure, GCP). On y progresse vite et sur plusieurs projets |
+| **A** | **Capgemini** | Ingénieur Cloud DevOps | Issy / Paris | Gros volume, multi-cloud |
+| **B** | Schneider Electric | Alternance – Ingénieur Cloud | **Rueil-Malmaison** | Offre cloud récente, tout près de Nanterre |
+| **B** | Safran | DevSecOps · Cybersécurité | Massy | Sécurité et industrie, trajet long |
+| **B** | Orange | Data & Cloud Engineer | Châtillon | Très gros recruteur d'alternants, mais cloud surtout côté data |
+| **B** | Bouygues Telecom | CI/CD · Data (GCP) | Meudon | Peu de cloud pur |
+| **B** | LexisNexis Risk | Alternance DevOps (Terraform) | Paris | Contrat d'un an seulement |
+| **C** | Google Cloud | Customer Engineer Apprenticeship | Paris | Avant-vente, très sélectif. À tenter, sans compter dessus |
+| **C** | KPMG (DSI interne) | Assistant Architecte SI (Azure) | La Défense | Réservé aux M2 en 1 an, donc **plutôt pour 2028** |
+| **C** | Disneyland Paris | FinOps Analyste | Montévrain (77) | Niche, trajet très long |
+| **Spontanées** | Accenture, Sopra Steria, Atos/Eviden, EDF, Engie, TotalEnergies (La Défense), L'Oréal, Microsoft, OVHcloud, AWS (datacenter à Clichy), Natixis/BPCE, Air France | — | — | Aucune alternance cloud indexée. Candidature spontanée ou forum |
+
+**Répartition conseillée des candidatures (30 à 50)** : la totalité des S et des A (au moins 2 candidatures par entreprise sur des intitulés différents),
+une sélection de B, 1 ou 2 C, et 10 à 15 candidatures spontanées.
