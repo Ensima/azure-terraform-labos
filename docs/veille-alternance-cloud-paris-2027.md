@@ -348,6 +348,7 @@ Critères : correspondance avec Azure, Terraform et la sécurité ; récurrence 
 | **A** | **BNP Paribas** | DevOps · production / IaaS | Paris / Montreuil | Gros volume. Le parcours B-school passe par le CESI, donc il ne te concerne plus avec Epitech |
 | **A** | **Devoteam** | Alternant Ingénieur Cloud · Consultant Cloud | Levallois | Entreprise de conseil spécialisée cloud (Azure, GCP). On y progresse vite et sur plusieurs projets |
 | **A** | **Capgemini** | Ingénieur Cloud DevOps | Issy / Paris | Gros volume, multi-cloud |
+| **B** | **Constellation** (groupe IT, filiales Easyteam, Login Sécurité, Tionis) | Alternant Administrateur Cloud et Sécurité (DSI groupe) | Saint-Cloud | Offre publiée le **25/11/2026**, en ligne jusqu'au 25/12/2026, 24 mois, niveau Master : Entra ID / Microsoft 365, sécurisation des postes, escalade du helpdesk. Groupe de 800 personnes spécialisé cloud hybride et cybersécurité ; sa filiale Easyteam recrute aussi en sécurité Azure ([HelloWork](https://www.hellowork.com/fr-fr/emplois/85863227.html), [France Travail](https://candidat.francetravail.fr/offres/recherche/detail/9186531)) |
 | **B** | Schneider Electric | Alternance – Ingénieur Cloud | Rueil-Malmaison | Intitulé « Ingénieur Cloud », offre récente |
 | **B** | Safran | DevSecOps · Cybersécurité | Massy | Sécurité et industrie, trajet long |
 | **B** | Orange | Data & Cloud Engineer | Châtillon | Très gros recruteur d'alternants, mais cloud surtout côté data |
